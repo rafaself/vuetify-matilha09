@@ -22,6 +22,16 @@
     padding: 12px;
     background: #ff000010;
     border-radius: 18px;
-    box-shadow: 0 0 10px 5px #ff000030;
+    animation: phrase-1-shadow-blink 2s linear infinite alternate;
 }
+
+@keyframes phrase-1-shadow-blink {
+    from {
+        box-shadow: 0 0 12px 6px #ff000030;
+    }
+    to {
+        box-shadow: 0 0 10px 5px #ff000010;
+    }
+}
+
 </style>
