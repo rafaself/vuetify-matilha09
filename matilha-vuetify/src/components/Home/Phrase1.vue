@@ -1,7 +1,7 @@
 <template>
     <v-row class="bg-phrase1">
         <v-col class="py-12 elevation-24">
-            <span class="text-h5 text-grey-lighten-2 phrase-1">
+            <span class="text-md-h5 text-red phrase-1">
                 Você só faz o que você treina.
             </span>
         </v-col>
@@ -29,9 +29,19 @@
     from {
         box-shadow: 0 0 12px 6px #ff000030;
     }
+
     to {
         box-shadow: 0 0 10px 5px #ff000010;
     }
 }
 
+@media (max-width: 1280px) {
+    .bg-phrase1 {
+        background-position-x: 80%;
+    }
+
+    .phrase-1 {
+        background: rgba(0, 0, 0, 0.85);
+    }
+}
 </style>
