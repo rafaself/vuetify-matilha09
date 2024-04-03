@@ -22,7 +22,7 @@ const items = [
     },
     {
         icon: "checkbox-marked-circle-outline",
-        text: "Identificar padrões de possíveis ameaças que possam ocorrer"
+        text: "Identificar padrões de possíveis ameaças que possam ocorrer 2"
     },
 ]
 
