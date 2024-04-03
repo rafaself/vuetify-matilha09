@@ -15,7 +15,7 @@
             </v-row>
         </v-col>
         <v-col lg="6" cols="12" class="d-flex justify-center pa-0">
-            <img src="@/assets/images/introduction-cadar-matilha-bg.png" id="instructor-img" height="500">
+                <img src="@/assets/images/introduction-cadar-matilha-bg.png" id="instructor-img" height="500">
         </v-col>
     </v-row>
 </template>
