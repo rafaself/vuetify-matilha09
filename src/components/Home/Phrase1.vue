@@ -12,7 +12,7 @@
 .bg-phrase1 {
     /* background-image: radial-gradient(#8b8a8a30, #3e3e3e30), url("src/assets/logo-matilha-bg.jpg"); */
     background-color: black;
-    background-image: url("src/assets/matilha-1.jpg");
+    background-image: url("@/assets/matilha-1.jpg");
     background-position: center 70%;
     overflow: hidden;
 }
