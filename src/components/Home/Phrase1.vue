@@ -41,7 +41,7 @@
     }
 
     .phrase-1 {
-        background: rgba(0, 0, 0, 0.96);
+        background: rgba(0, 0, 0, 0.93);
     }
 }
 </style>
