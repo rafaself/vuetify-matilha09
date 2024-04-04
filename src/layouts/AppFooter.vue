@@ -48,10 +48,10 @@ function goToInstagram () {
         <v-col cols="12" md="3" class="d-flex flex-column justify-center align-md-start align-center">
 
           <div class="mb-6">
-            <v-btn variant="text" href="https://www.instagram.com/caveiracadar09/" target="_blank">
+            <v-btn variant="text" href="https://www.instagram.com/matilhacaopastor/" target="_blank">
               <v-icon icon="mdi-instagram" class="mr-1" />
               <span class="text-lowercase pb-1">
-                  @caveiracadar09
+                  @matilhacaopastor
                 </span>
             </v-btn>
           </div>
