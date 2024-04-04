@@ -3,8 +3,8 @@
     <Introduction />
     <Phrase1 />
     <MaterialContent />
-    <CourseContent />
-    <Depositions />
+    <!-- <CourseContent />
+    <Depositions /> -->
     <FAQ />
   </div>
 </template>

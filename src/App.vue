@@ -14,7 +14,7 @@ import AppFooter from './layouts/AppFooter.vue';
       <router-view />
     </v-main>
 
-    <AppFooter />
+    <!-- <AppFooter /> -->
 
   </v-app>
 </template>
