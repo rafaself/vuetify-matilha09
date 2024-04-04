@@ -2,7 +2,7 @@
 import LogoMatilha from '@/assets/logo-matilha.jpg'
 // import { callWhatsApp } from '@/utils/functions'
 
-const email = "contato@emailaqui.com.br"
+const email = "projetomatilhacaopastor@gmail.com"
 // const router = useRouter()
 
 function mailTo () {
