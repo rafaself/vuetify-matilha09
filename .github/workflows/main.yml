@@ -16,7 +16,7 @@ jobs:
       - name: 🌐 Setup Node.js
         uses: actions/setup-node@v2.4.0
         with:
-          node-version: '18.x'
+          node-version: '20.x'
 
       - name: 🌐 Install dependencies
         run: npm install
