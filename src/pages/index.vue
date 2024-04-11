@@ -1,7 +1,7 @@
 <template>
   <section class="first-page">
     <v-icon icon="mdi-progress-wrench" size="330" class="text-grey-darken-3"></v-icon>
-    <span class="text-black text-h4 font-weight-light">Página em construção...</span>
+    <span class="text-black text-h4 font-weight-light">Página em construção... </span>
   </section>
 </template>
 
