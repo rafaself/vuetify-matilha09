@@ -82,7 +82,7 @@ const contents = ref(
 <template>
     <v-container class="d-flex flex-column align-center justify-center bg-grey-darken-4 pa-12" fluid>
         <span class="text-h4 mb-8">
-            Explore o que você vai aprender aqui
+            Explore o que você vai <span class="text-blue-lighten-1">aprender</span> aqui
         </span>
         <v-row>
             <v-col v-for="content, index in contents" :key="index">

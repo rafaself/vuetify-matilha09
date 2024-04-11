@@ -12,7 +12,7 @@ const isHovering = ref(false);
                 <span class="text-h5 text-md-h4">Depoimentos</span>
 
                 <div class="d-flex flex-column align-center">
-                    <h2 class="students-number text-red-darken-3">+200</h2>
+                    <h2 class="students-number text-red-darken-3">+100</h2>
                     <h4>alunos</h4>
                 </div>
 
